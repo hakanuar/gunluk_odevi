@@ -1,0 +1,14 @@
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\döngüler ve koşullar\bin\Debug\net6.0\döngüler ve koşullar.exe
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\döngüler ve koşullar\bin\Debug\net6.0\döngüler ve koşullar.deps.json
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\döngüler ve koşullar\bin\Debug\net6.0\döngüler ve koşullar.runtimeconfig.json
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\döngüler ve koşullar\bin\Debug\net6.0\döngüler ve koşullar.dll
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\döngüler ve koşullar\bin\Debug\net6.0\döngüler ve koşullar.pdb
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\döngüler ve koşullar\obj\Debug\net6.0\döngüler ve koşullar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\döngüler ve koşullar\obj\Debug\net6.0\döngüler ve koşullar.AssemblyInfoInputs.cache
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\döngüler ve koşullar\obj\Debug\net6.0\döngüler ve koşullar.AssemblyInfo.cs
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\döngüler ve koşullar\obj\Debug\net6.0\döngüler ve koşullar.csproj.CoreCompileInputs.cache
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\döngüler ve koşullar\obj\Debug\net6.0\döngüler ve koşullar.dll
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\döngüler ve koşullar\obj\Debug\net6.0\refint\döngüler ve koşullar.dll
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\döngüler ve koşullar\obj\Debug\net6.0\döngüler ve koşullar.pdb
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\döngüler ve koşullar\obj\Debug\net6.0\döngüler ve koşullar.genruntimeconfig.cache
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\döngüler ve koşullar\obj\Debug\net6.0\ref\döngüler ve koşullar.dll

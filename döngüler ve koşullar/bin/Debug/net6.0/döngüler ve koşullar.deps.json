@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "döngüler ve koşullar/1.0.0": {
+        "runtime": {
+          "döngüler ve koşullar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "döngüler ve koşullar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

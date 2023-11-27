@@ -1,0 +1,14 @@
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\veri tipleri\bin\Debug\net6.0\veri tipleri.exe
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\veri tipleri\bin\Debug\net6.0\veri tipleri.deps.json
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\veri tipleri\bin\Debug\net6.0\veri tipleri.runtimeconfig.json
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\veri tipleri\bin\Debug\net6.0\veri tipleri.dll
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\veri tipleri\bin\Debug\net6.0\veri tipleri.pdb
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\veri tipleri\obj\Debug\net6.0\veri tipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\veri tipleri\obj\Debug\net6.0\veri tipleri.AssemblyInfoInputs.cache
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\veri tipleri\obj\Debug\net6.0\veri tipleri.AssemblyInfo.cs
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\veri tipleri\obj\Debug\net6.0\veri tipleri.csproj.CoreCompileInputs.cache
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\veri tipleri\obj\Debug\net6.0\veri tipleri.dll
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\veri tipleri\obj\Debug\net6.0\refint\veri tipleri.dll
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\veri tipleri\obj\Debug\net6.0\veri tipleri.pdb
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\veri tipleri\obj\Debug\net6.0\veri tipleri.genruntimeconfig.cache
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\veri tipleri\obj\Debug\net6.0\ref\veri tipleri.dll

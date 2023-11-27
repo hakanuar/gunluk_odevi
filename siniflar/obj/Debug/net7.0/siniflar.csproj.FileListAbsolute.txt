@@ -1,0 +1,4 @@
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\siniflar\obj\Debug\net7.0\siniflar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\siniflar\obj\Debug\net7.0\siniflar.AssemblyInfoInputs.cache
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\siniflar\obj\Debug\net7.0\siniflar.AssemblyInfo.cs
+C:\Users\hucar\Desktop\Yeni klasör (2)\veri tipleri\siniflar\obj\Debug\net7.0\siniflar.csproj.CoreCompileInputs.cache
